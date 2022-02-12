@@ -1,0 +1,12 @@
+.sorting {
+  /*  display: flex;
+  justify-content: center;
+  align-self: center; */
+  margin: 50px 50px 0 50px;
+}
+.array-bar {
+  width: 3px;
+  background-color: grey;
+  display: inline-block;
+  margin: 0 1.5px;
+}
